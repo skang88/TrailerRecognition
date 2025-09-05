@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# Python Virtual Environments (covers root and subfolders)
+.venv/
+*/.venv/
+env/
+*/env/
+
+# Python Cache
+__pycache__/
+
+# Model Files
+*.pt
